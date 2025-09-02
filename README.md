@@ -26,7 +26,7 @@
   <a href="https://linkedin.com/in/ziad-mostafa-89ab52231" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://fb.com/share/1b3x3adsr3/" target="blank">
+  <a href="https://www.facebook.com/ziad.mostafa.5011516/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
   <a href="https://codeforces.com/profile/ziad_mostafa2003" target="blank">
