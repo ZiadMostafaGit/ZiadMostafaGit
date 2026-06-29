@@ -392,7 +392,7 @@ network  = "tc bandwidth throttling · evaluating USB Ethernet for gateway topol
 ## `~/recent-activity`
 
 <!--START_SECTION:activity-->
-<!-- This section auto-updates via the GitHub Action: https://github.com/jamesgeorge007/github-activity-readme -->
+1. 🎉 Merged PR [#1](https://github.com/ZiadMostafaGit/HTTP_on_top_TCP/pull/1) in [ZiadMostafaGit/HTTP_on_top_TCP](https://github.com/ZiadMostafaGit/HTTP_on_top_TCP)
 <!-- Add the action to .github/workflows/update-readme.yml to enable -->
 1. 🔨 Recent commits will appear here automatically
 2. 🗣 PR reviews, issues, and discussions
